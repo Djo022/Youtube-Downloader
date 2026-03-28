@@ -15,7 +15,7 @@ A modern, high-performance YouTube downloader with a clean Dark Mode GUI. Built 
 3. **CRITICAL**: You must have **FFmpeg** installed for the app to merge video and audio correctly.
    - Run `winget install FFmpeg` in your Command Prompt to install it easily.
 
-## 📱 Android Usage
+## 📱 Android Usage (we are still working on it, We are Sorry for wait!)
 To run the mobile version:
 1. Install **Pydroid 3** from the Google Play Store.
 2. Open `main.py` from this repository and copy the code.
